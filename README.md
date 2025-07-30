@@ -1,6 +1,6 @@
 # screen_page
 
-A new Flutter project.
+FIXED a mobile application
 
 ## Getting Started
 
